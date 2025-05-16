@@ -41,7 +41,4 @@ const posicaoFinal = posicaoInicial + passos;
 
 
 
-    
-jornadaDoHeroi(10,5);
-jornadaDoHeroi(15,3);
-jornadaDoHeroi(10,6);
+
